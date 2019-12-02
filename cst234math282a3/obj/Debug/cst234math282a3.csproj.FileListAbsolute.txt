@@ -1,0 +1,10 @@
+G:\Git Projects\cst234math282a3\cst234math282a3\bin\Debug\cst234math282a3.exe.config
+G:\Git Projects\cst234math282a3\cst234math282a3\bin\Debug\cst234math282a3.exe
+G:\Git Projects\cst234math282a3\cst234math282a3\bin\Debug\cst234math282a3.pdb
+G:\Git Projects\cst234math282a3\cst234math282a3\obj\Debug\cst234math282a3.csprojAssemblyReference.cache
+G:\Git Projects\cst234math282a3\cst234math282a3\obj\Debug\cst234math282a3.exe
+G:\Git Projects\cst234math282a3\cst234math282a3\obj\Debug\cst234math282a3.pdb
+G:\Git Projects\cst234math282a3\cst234math282a3\bin\Debug\Matrix2019.exe
+G:\Git Projects\cst234math282a3\cst234math282a3\bin\Debug\Matrix2019.pdb
+G:\Git Projects\cst234math282a3\cst234math282a3\bin\Debug\Matrix2019.exe.config
+G:\Git Projects\cst234math282a3\cst234math282a3\obj\Debug\cst234math282a3.csproj.CopyComplete
